@@ -7,7 +7,7 @@ sh run.sh
 ```
 
 ```ts
-import React from "https://deno.land/x/react/react.ts";
-import ReactDOM from "https://deno.land/x/react/react_dom.ts";
-import ReactDOMServer from "https://deno.land/x/react/react_dom_server.ts";
+import React from "https://deno.land/x/react_deno@17.0.2/react.ts";
+import ReactDOM from "https://deno.land/x/react_deno@17.0.2/dom.ts";
+import ReactDOMServer from "https://deno.land/x/react_deno@17.0.2/dom_server.ts";
 ```
